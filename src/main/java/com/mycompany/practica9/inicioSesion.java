@@ -43,6 +43,7 @@ public class inicioSesion extends javax.swing.JFrame {
         msgWrongIS = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
 
         jPanel1.setBackground(new java.awt.Color(57, 66, 99));
 

@@ -50,7 +50,7 @@
                     <archive>
                         <manifest>
 //Aqui se establece el nombre de la clase principal
-                            <mainClass>com.mycompany.practica9.Practica9</mainClass>
+                            <mainClass>com.mycompany.practica9.inicioSesion</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
